@@ -1,6 +1,6 @@
 # Power-BI-Practice-Project: CAR INSURANCE MARKETING CAMPAIGN ANALYSIS
 
-[0.Image.pdf](https://github.com/lpthao0102/test/files/15242139/0.Image.pdf)
+![image](https://github.com/lpthao0102/test/assets/166318783/1a9db022-95b8-46cb-b694-4ac3d17a648c)
 
 **INTRODUCTION**
 -----------------------------------------------------------------------------------------------
