@@ -1,4 +1,6 @@
-# REPORT: CAR INSURANCE MARKETING CAMPAIGN ANALYSIS
+# Power-BI-Practice-Project: CAR INSURANCE MARKETING CAMPAIGN ANALYSIS
+
+[0.Image.pdf](https://github.com/lpthao0102/test/files/15242139/0.Image.pdf)
 
 **INTRODUCTION**
 -----------------------------------------------------------------------------------------------
@@ -7,6 +9,8 @@ This report provides information for individuals and teams interested in data to
 **DATASET**
 -----------------------------------------------------------------------------------------------
 This dataset consists of one table with 19 columns. It contains general information about customers (age, job, etc.) as well as specific details about the current car insurance marketing campaign (about contact information, contact dates, etc.) and previous campaigns.
+
+Link to the dataset [Link] (https://bit.ly/4bjCjuG)
 
 **PROBLEM STATEMENT**
 -----------------------------------------------------------------------------------------------
