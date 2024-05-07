@@ -1,4 +1,4 @@
-# Power-BI-Practice-Project: CAR INSURANCE MARKETING CAMPAIGN ANALYSIS
+# Power-BI-Practice-Project: Car Insurance Marketing Campaign Analyst
 
 ![image](https://github.com/lpthao0102/test/assets/166318783/1a9db022-95b8-46cb-b694-4ac3d17a648c)
 
